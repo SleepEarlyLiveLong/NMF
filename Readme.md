@@ -46,4 +46,4 @@ Finally, you can use date 'Ddatak4', 'Ddatak8' and 'Ddatak16' respectively to ru
 
 
 
-For more detailed information, refer to article [学习笔记 _ 非负矩阵分解(NMF)浅析.md]().
+For more detailed information, refer to article [学习笔记 _ 非负矩阵分解(NMF)浅析.md](https://github.com/chentianyangWHU/NMF/blob/master/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%20_%20%E9%9D%9E%E8%B4%9F%E7%9F%A9%E9%98%B5%E5%88%86%E8%A7%A3(NMF)%E6%B5%85%E6%9E%90.md).
