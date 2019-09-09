@@ -17,7 +17,6 @@ This is a realization of Principle Component Analysis (Nonnegative Matrix Factor
         |-- readdatak4.m
         |-- readdatak8.m
         |-- readdatak16.m
-    |-- LICENSE
     |-- Readme.md
     |-- 学习笔记 _ 非负矩阵分解(NMF)浅析.md
 ```
@@ -34,7 +33,6 @@ Among the files above:
 - file 'readdatak4.m' is a file to produce data 'Ddatak4';
 - file 'readdatak8.m' is a file to produce data 'Ddatak8';
 - file 'readdatak16.m' is a file to produce data 'Ddatak16';
-- file 'LICENSE' is the license file produced by github;
 - file '学习笔记 _ 非负矩阵分解(NMF)浅析.md' is a detailed introduction document for this project. 
 
 Here is the guide of running these files above:
